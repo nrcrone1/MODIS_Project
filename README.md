@@ -58,5 +58,5 @@ MODIS_Project/
 ```text
    conda install geopandas matplotlib scipy shapely pyproj numpy
 ```
-5. Open the `Code` folder and run `final_project_figures.py`
+4. Open the `Code` folder and run `final_project_figures.py`
 
