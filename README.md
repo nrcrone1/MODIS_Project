@@ -54,6 +54,7 @@ MODIS_Project/
 
 1. Download the Data and Code folders from this repository
 2. The file structure must remain unchanged. The python script uses relative paths to find the Data folder
-3. Install the required Python libraries
-4. Open the `Code` folder and run `final_project_figures.py`.
+3. Install the required Python libraries. All of the needed can be install using the following:
+   conda install geopandas matplotlib scipy shapely pyproj numpy
+5. Open the `Code` folder and run `final_project_figures.py`
 
