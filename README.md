@@ -56,7 +56,7 @@ MODIS_Project/
 2. The file structure must remain unchanged. The python script uses relative paths to find the Data folder
 3. Install the required Python libraries. All of the needed can be install using the following:
 ```text
-   conda install geopandas matplotlib scipy shapely pyproj numpy
+conda install geopandas matplotlib scipy shapely pyproj numpy
 ```
 4. Open the `Code` folder and run `final_project_figures.py`
 
