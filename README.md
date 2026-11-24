@@ -1,13 +1,12 @@
-Project title: Integrating MODIS imagery with blue hole sediment cores to 
-improve understanding of storm-induced sediment processes on carbonate 
-platforms
+# MODIS Project
+## Project title: Using MODIS imagery to improve understanding of storm-induced sediment processes on carbonate platforms
 
-Project description: Shallow carbonate platforms, such as the Great Bahamas 
-Bank (GBB), serve a large carbon sinks and produce ~50% of Earth's marine 
-carbonate sediment. Tropical cyclones and winter storms have the potential 
-to transport large amounts of carbonate sediment off of the platform and 
-into blue holes and the deep sea. However, it is notoriously difficult to 
-gather in-situ observations during such storm events.
+Project description: Shallow carbonate platforms, such as Turks and Caicos 
+and the Great Bahamas Bank, serve as large carbon sinks and produce ~50% of 
+Earth's marine carbonate sediment. Tropical cyclones and winter storms have 
+the potential to transport large amounts of carbonate sediment off of the 
+platform and into blue holes and the deep sea. However, it is notoriously 
+difficult to gather in-situ observations during such storm events.
 
 MODIS satellite imagery provides daily, high resolution (1 x 1 km) ocean 
 color data which can be used to quantify total suspended solids (TSS) over 
@@ -23,8 +22,17 @@ storm events passing GBB and hopefully correlate storms which drive large
 suspension events with coarse-grained sand layers identified in blue hole 
 sediment cores. 
 
+## Central Question / Objective
+The objective of this project is to characterize TCs that pass the Caicos 
+platform based on their capacity to resuspend and transport sediment around the 
+platform. In doing so, I aim to answer the following question:
+1. What characteristics of tropical cyclones promote sediment suspension on
+    the Caicos carbonate platform?
+   
+I hypothesize that since tropical cyclones have counterclockwise winds, storms
+that pass on the south of the platform will generate onshore-directed winds
+which promote sediment resuspension.
 
-# MODIS Project
 
 ## Repository structure
 
