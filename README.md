@@ -22,3 +22,30 @@ The goal of this project is to quantify TSS using MODIS before and after
 storm events passing GBB and hopefully correlate storms which drive large 
 suspension events with coarse-grained sand layers identified in blue hole 
 sediment cores. 
+
+
+# MODIS Project
+
+## Repository structure
+
+```text
+MODIS_Project/
+├── README.md
+├── Data/
+│   ├── Caicos_Rrs667_2004_ASO.mat
+│   ├── Caicos_Rrs667_2008_ASO.mat
+│   ├── Caicos_Rrs667_2011_ASO.mat
+│   ├── Caicos_Rrs667_2017_ASO.mat
+│   ├── ibtracs_storms_2002_to_2020.mat
+│   └── Caicos.gpkg
+└── Code/
+    └── final_project_figures.py
+```
+
+## How to run
+
+1. Download the Data and Code folders from this repository
+2. The file structure must remain unchanged. The python script uses relative paths to find the Data folder
+3. Install the required Python libraries
+4. Open the `Code` folder and run `final_project_figures.py`.
+
